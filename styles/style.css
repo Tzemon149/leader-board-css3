@@ -1,0 +1,533 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&family=Work+Sans:wght@500&display=swap');
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.text {
+    position: absolute;
+    font-family: work sans;
+    width: 302px;
+    height: 53px;
+    left: 228px;
+    top: 30px;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    color: #000000;
+}
+
+.about {
+    font-family: work sans;
+    position: absolute;
+    display: flex;
+    gap: 50px;
+    width: 477px;
+    height: 26px;
+    left: 1203px;
+    top: 63px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #424242;
+}
+
+.text-2 {
+    font-family: work sans;
+    position: absolute;
+    width: 862px;
+    height: 225px;
+    left: 529px;
+    top: 205px;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 75px;
+    text-align: center;
+    color: #131313;
+}
+
+.text-3 {
+    font-family: work sans;
+    position: absolute;
+    width: 868px;
+    height: 52px;
+    left: 526px;
+    top: 440px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    text-align: center;
+    color: #727272;
+}
+
+.button {
+    font-family: work sans;
+    position: absolute;
+    width: 180px;
+    height: 64px;
+    left: 870px;
+    top: 550px;
+    background: #FF900E;
+    border-radius: 8px;
+    border-color: white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    border-style: none;
+}
+
+.image1 {
+    position: absolute;
+    left: 240px;
+    top: 700px;
+    border-radius: 8px;
+}
+.back{
+    position: absolute;
+    width: 1903px;
+    height: 1450px;
+    background: rgba(255, 144, 14, 0.1);
+    }
+.thumbnail {
+    position: absolute;
+    width: 342px;
+    height: 342px;
+    left: 301px;
+    top: 1490px;
+    border-radius: 8px;
+    gap: 24px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.middle-text{
+position: absolute;
+width: 468px;
+height: 106px;
+left: 1085px;
+top: 1640px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+color: #727272;
+}
+.feature{
+    color: 
+    #FF900E;
+}
+.our{
+    color: #000000;
+}
+.midddle-text2{
+position: absolute;
+width: 537px;
+height: 78px;
+left: 1082px;
+top: 1820px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #727272;
+}
+.button2{
+    font-family: work sans;
+    position: absolute;
+    width: 180px;
+    height: 64px;
+    left: 1082px;
+    top: 1940px;
+    border-style: none;
+    background: #FF900E;
+    border-radius: 8px;
+    border-color: white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.img3{
+position: absolute;
+width: 708px;
+height: 982px;
+left: 972px;
+top: 2400px;
+border-radius: 8px;
+}
+.th3{
+    position: absolute;
+    width: 468px;
+    height: 106px;
+    left: 266px;
+    top: 2420px;    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #000000;
+}
+.th3l{
+    position: absolute;
+    width: 468px;
+    height: 106px;
+    left: 266px;
+    top: 2620px;    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 53px;
+    color: #4b4545; 
+}
+.info{
+position: absolute;
+width: 586px;
+height: 171px;
+left: 240px;
+top: 2820px;
+background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+
+}
+.a{
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-top: 8px;
+    
+}
+.c{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #131313; 
+}
+.b{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 26px;
+color: #727272;
+}
+.d, .e, .f{
+background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+padding-bottom: 30px;
+padding-left: 30px;
+padding-top: 8px;
+}
+.sec{
+position: absolute;
+width: 342px;
+height: 200px;
+left: 850px;
+top: 2800px;
+background: #FF900E;
+border-radius: 8px;
+border-color: white;
+text-align: center;
+color: #FFFFFF;
+border-style: none;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 70px;
+padding: 38px;
+}
+.ex{
+    font-size: 30px;
+}
+.facts{
+position: absolute;
+width: 258px;
+height: 53px;
+left: 240px;
+top: 3434px;
+}
+.font{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 53px;
+color: #131313;
+}
+.ac{
+    gap: 200px;
+    box-sizing: border-box;
+    width: 1060.83px;
+    position: absolute;
+    height: 271.83px;
+    left: 480.92px;
+    top: 3663.08px;
+    display:flex;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+}
+.spon{
+position: absolute;
+width: 542px;
+height: 129px;
+left: 750px;
+top: 4085px;
+}
+.o{
+position: absolute;
+left: -160px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #727272;
+
+}
+.ok{
+position: absolute;
+left: -20px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #727272;
+}
+.daraz{
+    position: absolute;
+    width: 166.76px;
+    height: 50px;
+    left: 240px;
+    top: 4264px;
+    display: flex;
+    margin: 100px;
+    gap: 100px;
+}
+.end{
+position: absolute;
+width: 1440px;
+height: 100px;
+left: 240px;
+top: 4600px;
+background: #FFF4E7;
+border-radius: 8px; 
+}
+.okk{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;  
+    padding-top: 20px;
+ color: #424242;
+}
+.ses{
+    position: absolute;
+    top: 5000px;
+    color: white;
+}
+.ko{
+position: absolute;
+width: 55px;
+height: 53px;
+left: 383px;
+top: 3764.22px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+color: #424242;
+}
+.cho{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-size: 45px;
+    line-height: 53px;
+    /* identical to box height */
+    
+    
+    /* Dark 02 */
+    
+    color: #424242;
+padding-left: 30px;
+}
+.awa{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    
+    /* Dark 03 */
+    
+    color: #727272;
+
+
+}
+@media only screen and (max-width:688px){
+    .back{
+        width: 100%;
+    }
+    .thumbnail{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+    .middle-text{
+position: absolute;
+width: 468px;
+height: 106px;
+left: 800px;
+top: 1640px;
+    }
+    .midddle-text2{
+        position: absolute;
+        width: 537px;
+        height: 78px;
+        left: 800px;
+        top: 1820px;}
+        .button2{
+            position: absolute;
+            width: 180px;
+            height: 64px;
+            left: 800px;
+            top: 1940px;
+        }
+        .img3{
+            position: absolute;
+            width: 708px;
+            height: 982px;
+            left: 500px;
+            top: 3000px;
+            border-radius: 8px;
+            }
+            .th3{
+                position: absolute;
+                width: 468px;
+                height: 106px;
+                left: 266px;
+                top: 4000px;    
+                font-family: 'Work Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 45px;
+                line-height: 53px;
+                color: #000000;
+            }
+            .th3l{
+                position: absolute;
+                width: 468px;
+                height: 106px;
+                left: 266px;
+                top: 4200px;    
+                font-family: 'Work Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 53px;
+                color: #4b4545; 
+            }
+            .info{
+            position: absolute;
+            width: 586px;
+            height: 171px;
+            left: 240px;
+            top: 4500px;
+            background: #FFFFFF;
+            box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+            border-radius: 8px;
+            
+            }
+
+            .sec{
+            position: absolute;
+            width: 342px;
+            height: 200px;
+            left: 500px;
+            top: 5200px;
+            background: #FF900E;
+            border-radius: 8px;
+            border-color: white;
+            text-align: center;
+            color: #FFFFFF;
+            border-style: none;
+            font-family: 'Work Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 65px;
+            line-height: 70px;
+            padding: 38px;
+            }
+            .facts{
+            position: absolute;
+            width: 258px;
+            height: 53px;
+            left: 140px;
+            top: 3434px;
+            }
+            .ac{
+                gap: 200px;
+                box-sizing: border-box;
+                width: 1060.83px;
+                position: absolute;
+                height: 271.83px;
+                left: 200px;
+                top: 5500px;
+                display:flex;
+                border: 1px solid #FF900E;
+                border-radius: 8px;
+            }
+            .spon{
+            position: absolute;
+            width: 542px;
+            height: 129px;
+            left: 500px;
+            top: 6000px;
+            }
+ 
+            .daraz{
+                position: absolute;
+                width: 166.76px;
+                height: 50px;
+                left: 70px;
+                top: 6200px;
+                display: flex;
+                margin: 100px;
+                gap: 100px;
+            }
+            .end{
+            position: absolute;
+            width: 1440px;
+            height: 100px;
+            left: 70px;
+            top: 6500px;
+            background: #FFF4E7;
+            border-radius: 8px; 
+            }
+            
+ 
+            .ko{
+            position: absolute;
+            width: 55px;
+            height: 53px;
+            left: 383px;
+            top: 3764.22px;
+            font-family: 'Work Sans';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 45px;
+            line-height: 53px;
+            color: #424242;
+}
+}
